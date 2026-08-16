@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-aviation-blue: #2563EB;
+  --color-aviation-dark: #0F172A;
+  --color-aviation-light: #F8FAFC;
+}
+
+@layer base {
+  body {
+    background-color: var(--color-slate-50);
+    color: var(--color-slate-900);
+  }
+}

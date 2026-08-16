@@ -1,0 +1,7 @@
+{
+  "provider": "kimi",
+  "api_key": "sk-MyjQ8My7sow7tffb8nmyWTZ4l2jZ0jYELgJWZdz5yPI4wcmg",
+  "model": "kimi-k2.6",
+  "base_url": "",
+  "temperature": 0.7
+}
